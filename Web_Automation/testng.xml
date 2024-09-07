@@ -1,0 +1,8 @@
+<suite name="Test_Suite">
+    <test name="Automation">
+        <classes>
+            <class name="framework.automation.tests.LoginTest"/>
+            <class name="framework.automation.tests.EmployeeTest"/>
+        </classes>
+    </test>
+</suite>
